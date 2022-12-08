@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-🔭 I'm Jiyao Liu, a master student Fudan University, major in Biomedical Engineering(BME), in the Insititute of Science and Technology for Brain-inspired intelligence.
+🔭 I'm Xueqiang Fan, a Ph.D. student Hefei University of Technology, major in School of Computer and Information
 
-📫 How to contact with me: liujy22@m.fudan.edu.cn
-
-🤔 zhihu Home page: https://www.zhihu.com/people/zhi-shi-zhi-zhong-97-31
+📫 How to contact with me: xstrongf@163.com
 -->
