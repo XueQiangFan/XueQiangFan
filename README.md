@@ -3,7 +3,7 @@
 ⛹️ ⛹️‍♂️ ⛹️‍♀️ ⛹️ ⛹️‍♂️ ⛹️‍♀️ ⛹️ ⛹️‍♂️ ⛹️‍♀️ ⛹️ ⛹️‍♂️ ⛹️‍♀️ ⛹️ ⛹️‍♂️ ⛹️‍♀️ ⛹️ ⛹️‍♂️ ⛹️‍♀️
 
 
-🔭 I'm Xueqiang Fan, a Ph.D. student Hefei University of Technology, major in School of Computer and Information. 
+🔭 I'm Xueqiang Fan, a Ph.D. student major in School of Computer and Information. 
 My current research interests include pattern recognition, data mining, machine learning and its applications to polarization imaging and bioinformatics.
 
 📫 How to contact with me: xstrongf@163.com
