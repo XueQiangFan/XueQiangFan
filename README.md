@@ -4,7 +4,7 @@
 
 
 🔭 I'm Xueqiang Fan, a Ph.D. student major in School of Computer and Information. 
-My current research interests include pattern recognition, data mining, machine learning and its applications to polarization imaging and bioinformatics.
+My current research interests include Pattern Recognition, Machine Learning, Bioinformatics and Polarization Imaging
 
 📫 How to contact with me: xstrongf@163.com 
    Public Academic Website: https://XueqiangF.github.io.
