@@ -7,6 +7,6 @@
 My current research interests include Pattern Recognition, Polarization Vision, and Bioinformatics.
 
 📫 How to contact with me: fanxueqqqiang@gmail.com 
-   Public Academic Website: https://XueqiangF.github.io.
+   HomePage: https://XueqiangF.github.io.
 
 ️ ☘️ ️ ☘️  ️☘️ ️ ☘️ ️ ☘️ ️ ☘️ ️ ☘️ ️ ☘️
